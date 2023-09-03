@@ -4,7 +4,7 @@ import time
 from telebot import types
 
 
-TOKEN = '6670214969:AAGf4O3ZdNPSMbzWsf3e_txgywTPGBKUAsY'
+TOKEN = 'YOUR TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 #Описание команд
