@@ -1,6 +1,8 @@
 <span style="color:red">Внимание!!! Из-за технических причин сервер для deploy-я проекта недоступен в регионе автора и 
 телеграм-бот временно приостановлен.</span>
 
+<span style="color:red">Текст, который будет отображаться красным цветом</span>
+
 # Xian Shi (the first fortuneteller on telegram)
 
 ## RUS version
