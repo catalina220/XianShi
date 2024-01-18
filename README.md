@@ -2,6 +2,7 @@
 #### Attention!!! Due to technical reasons the server for the deployment project is unavailable in the author's region and the telegram bot is temporarily suspended
 
 
+
 # Xian Shi (the first fortuneteller on telegram)
 
 ## RUS version
@@ -18,7 +19,8 @@ Project Xian Shi is a telegram bot that is currently going through the process o
 ### You can check out its current version at the attached link in the repository.
 
 
-#### Связаться с автором (Contact the author):
+## Связаться с автором (Contact the author):
 
 telegram: @protein0065
+
 Gmail: ekoterina.samarina@gmail.com
