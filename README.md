@@ -10,8 +10,15 @@
 
 ### Вы можете ознакомиться с его текущей версией по закрепленной в репозитории ссылке.
 
+
 ## ENG version
 
 Project Xian Shi is a telegram bot that is currently going through the process of rewriting the code using the telebot library to the more optimized AIOgram library. The goal of this change is to significantly improve the bot's performance and create the most optimal experience for users.
 
 ### You can check out its current version at the attached link in the repository.
+
+
+#### Связаться с автором (Contact the author):
+
+telegram: @protein0065
+Gmail: ekoterina.samarina@gmail.com
