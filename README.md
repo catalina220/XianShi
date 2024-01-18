@@ -12,6 +12,7 @@ Project Xian Shi is a telegram bot that is currently going through the process o
 
 ### You can check out its current version at the attached link in the repository.
 
+
 ## RUS version
 
 Проект Xian Shi — телеграм бот, который в данный момент проходит процесс перезаписи кода с использованием библиотеки telebot на более оптимизированную библиотеку AIOgram. Цель этого изменения — значительное улучшение эффективности работы бота и создание наиболее оптимального опыта для пользователей.
