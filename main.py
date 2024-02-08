@@ -226,7 +226,7 @@ def inline_keyboard_handler(call):
 
         image_path = f'image{number + 1}.jpeg'
         
-        with open(f"/Users/catalina/Documents/гадалка/{image_path}", 'rb') as photo:
+        with open(f"{image_path}", 'rb') as photo:
             time.sleep(1)
             bot.send_photo(call.message.chat.id, photo)
 
